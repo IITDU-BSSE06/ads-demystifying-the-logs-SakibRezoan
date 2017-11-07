@@ -3,7 +3,6 @@
 import sys
 
 urls = {}
-maximum = 0
 
 for line in sys.stdin:
     if line in urls:
